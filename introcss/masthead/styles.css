@@ -1,0 +1,22 @@
+.navbar-dark .navbar-brand{
+    background-color: red;
+}
+#search{
+    background-color: red;
+    color: white;
+}
+#button-addon2{
+   background-color: red;
+}
+#cart{
+    color: white;
+}
+.navbar-dark .navbar-text{
+color: white;
+}
+img#search {
+    filter:();
+  }
+  img#cart{
+      filter: invert(100%)
+  }
